@@ -9,7 +9,7 @@ The data source is an in-memory repository with sample data .
 - Framework: Spring Boot 4.0.4
   - spring-boot-starter-webmvc
   - spring-boot-starter-validation
-- Build tool / Package manager: Maven (wrapper included: mvnw, mvnw.cmd)
+- Build tool / Package manager: Maven
 - Testing Framework: Junit 5
 
 ## API Endpoints
