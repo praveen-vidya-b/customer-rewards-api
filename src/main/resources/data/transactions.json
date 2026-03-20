@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "customerId": 101,
+    "customerName": "Vidya Baligar",
+    "amount": 120.0,
+    "monthsAgo": 2,
+    "dayOfMonth": 5
+  },
+  {
+    "id": 2,
+    "customerId": 101,
+    "customerName": "Vidya Baligar",
+    "amount": 75.0,
+    "monthsAgo": 2,
+    "dayOfMonth": 18
+  },
+  {
+    "id": 3,
+    "customerId": 101,
+    "customerName": "Vidya Baligar",
+    "amount": 200.0,
+    "monthsAgo": 1,
+    "dayOfMonth": 10
+  },
+  {
+    "id": 4,
+    "customerId": 101,
+    "customerName": "Vidya Baligar",
+    "amount": 49.0,
+    "monthsAgo": 0,
+    "dayOfMonth": 2
+  },
+  {
+    "id": 5,
+    "customerId": 101,
+    "customerName": "Vidya Baligar",
+    "amount": 130.0,
+    "monthsAgo": 0,
+    "dayOfMonth": 15
+  },
+  {
+    "id": 6,
+    "customerId": 102,
+    "customerName": "Ajay Kumar",
+    "amount": 51.0,
+    "monthsAgo": 2,
+    "dayOfMonth": 3
+  },
+  {
+    "id": 7,
+    "customerId": 102,
+    "customerName": "Ajay Kumar",
+    "amount": 99.0,
+    "monthsAgo": 1,
+    "dayOfMonth": 9
+  },
+  {
+    "id": 8,
+    "customerId": 102,
+    "customerName": "Ajay Kumar",
+    "amount": 101.0,
+    "monthsAgo": 1,
+    "dayOfMonth": 21
+  },
+  {
+    "id": 9,
+    "customerId": 102,
+    "customerName": "Ajay Kumar",
+    "amount": 180.0,
+    "monthsAgo": 0,
+    "dayOfMonth": 8
+  },
+  {
+    "id": 10,
+    "customerId": 102,
+    "customerName": "Ajay Kumar",
+    "amount": 45.0,
+    "monthsAgo": 0,
+    "dayOfMonth": 22
+  },
+  {
+    "id": 11,
+    "customerId": 103,
+    "customerName": "Sagar",
+    "amount": 40.0,
+    "monthsAgo": 2,
+    "dayOfMonth": 7
+  },
+  {
+    "id": 12,
+    "customerId": 103,
+    "customerName": "Sagar",
+    "amount": 55.0,
+    "monthsAgo": 1,
+    "dayOfMonth": 11
+  },
+  {
+    "id": 13,
+    "customerId": 103,
+    "customerName": "Sagar",
+    "amount": 110.0,
+    "monthsAgo": 0,
+    "dayOfMonth": 29
+  }
+]
